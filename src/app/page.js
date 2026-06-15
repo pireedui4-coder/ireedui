@@ -253,8 +253,8 @@ export default function Home() {
 
         {/* FOOTER */}
         <footer className="text-center p-4 text-gray-500 text-sm mt-6 border-t border-slate-800">
-          &copy; 2026 Бат-Ирээдүй
-        </footer>
+  &copy; 2026 Бат-Ирээдүй
+</footer>
       </div>
     </main>
   );
